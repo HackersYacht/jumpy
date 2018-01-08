@@ -1,5 +1,7 @@
 # jumpy
-
+<br>
+![alt text](https://github.com/HackersYacht/jumpy/blob/master/img.png)
+<br>
 
 #Install dependecies before running app
 
