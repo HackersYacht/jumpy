@@ -1,7 +1,7 @@
 # jumpy
-<br>
-![stack Overflow](http://lmsotfy.com/so.png)
-<br>
+
+![screenshot](img.png)
+
 
 #Install dependecies before running app
 
