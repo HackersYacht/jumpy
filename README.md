@@ -1,6 +1,6 @@
 # jumpy
 <br>
-![screenshot](https://github.com/HackersYacht/jumpy/blob/master/img.png)
+![stack Overflow](http://lmsotfy.com/so.png)
 <br>
 
 #Install dependecies before running app
